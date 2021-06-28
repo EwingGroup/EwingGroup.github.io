@@ -1,1 +1,1 @@
-# This is the repo for the Ewing Group website.
+This is the repo for the Ewing Group website.
