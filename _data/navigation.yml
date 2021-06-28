@@ -1,0 +1,12 @@
+- name: Research
+  link: research
+- name: News
+  link: /blog/
+- name: People
+  link: people
+- name: Publications
+  link: publications
+#- name: Software
+#  link: software
+- name: Contact
+  link: contact
