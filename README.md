@@ -1,2 +1,1 @@
-# EwingGroup.github.io
-Website for the Ewing Group.
+# This is the repo for the Ewing Group website.
