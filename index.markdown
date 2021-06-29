@@ -3,7 +3,7 @@ layout: page
 title: ""
 #subtitle: Evolution of structural variants in cancer
 #image: /img/Ailith_research_image_withname.jpg
-description: The pages meta description
+description: Statistical cancer genomics 
 hero_image: /img/Ailith_research_image_withname.jpg
 #hero_height: is-fullheight 
 hero_width: is-fullwidth
