@@ -15,7 +15,7 @@ hide_share_buttons: true
 
 Having completed instructor training and a checkout process which involves contributing to existing lessons, community discussions and passing a teaching demonstration, I am now a certified instructor with **The Carpentries**.
 
-![The Carpentries project](https://carpentries.org/) comprises the Software Carpentry, Data Carpentry, and Library Carpentry communities of Instructors, Trainers, Maintainers, helpers, and supporters who share a mission to teach foundational computational and data science skills to researchers.
+[The Carpentries project](https://carpentries.org/) comprises the Software Carpentry, Data Carpentry, and Library Carpentry communities of Instructors, Trainers, Maintainers, helpers, and supporters who share a mission to teach foundational computational and data science skills to researchers.
 
 For the last couple of years, I have been working hard to increase the availability and quality of training in statistics and data science for biomedical researchers in the institute and in the wider research community. This formal training will allow me to teach at a higher standard and develop new courses specifically catered to the biomedical research community in the future.
 
