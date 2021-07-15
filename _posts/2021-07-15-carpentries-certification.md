@@ -17,7 +17,7 @@ Having completed instructor training and a checkout process which involves contr
 
 The Carpentries project comprises the Software Carpentry, Data Carpentry, and Library Carpentry communities of Instructors, Trainers, Maintainers, helpers, and supporters who share a mission to teach foundational computational and data science skills to researchers.
 
-For the last couple of years, I have been working hard to increase the availability and quality of training in statistics and data science for biomedical researchers in the institute. This formal training will allow me to teach at a higher standard and develop new courses specifically catered to the biomedical research community in the future.
+For the last couple of years, I have been working hard to increase the availability and quality of training in statistics and data science for biomedical researchers in the institute and in the wider research community. This formal training will allow me to teach at a higher standard and develop new courses specifically catered to the biomedical research community in the future.
 
 Look out for new courses coming Autumn 2021...
 
