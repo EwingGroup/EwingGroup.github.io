@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome Jo Mattocks to the lab!"
+title:  "Welcome Jo Mattocks to the group!"
 date:   2022-04-01 09:27:48 +0100
 categories: launches
 hero_image: /img/Ailith_research_image_withname.jpg
