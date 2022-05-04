@@ -10,7 +10,7 @@ author: "Ailith"
 hide_share_buttons: true
 ---
 <p align="center">
-  <img width="230" height="150" src="/img/NewReview.png">
+  <img width="460" height="300" src="/img/NewReview.png">
 </p>
 
 Our invited contribution to the 2022 Annual Review Issue: 'Recent Advances in Pathology' is published at the Journal of Pathology.
