@@ -1,4 +1,66 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-09-15T18:09:24+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Ewing Group</title><subtitle>Statistical Cancer Genomics</subtitle><entry><title type="html">Ailith is now a certified Instructor with The Carpentries</title><link href="http://localhost:4000/launches/2021/07/15/carpentries-certification.html" rel="alternate" type="text/html" title="Ailith is now a certified Instructor with The Carpentries" /><published>2021-07-15T09:27:48+01:00</published><updated>2021-07-15T09:27:48+01:00</updated><id>http://localhost:4000/launches/2021/07/15/carpentries-certification</id><content type="html" xml:base="http://localhost:4000/launches/2021/07/15/carpentries-certification.html">&lt;p align=&quot;center&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-05-04T12:15:55+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Ewing Group</title><subtitle>Statistical Cancer Genomics</subtitle><entry><title type="html">Welcome Jo Mattocks to the lab!</title><link href="http://localhost:4000/launches/2022/01/14/WelcomeJo.html" rel="alternate" type="text/html" title="Welcome Jo Mattocks to the lab!" /><published>2022-01-14T08:27:48+00:00</published><updated>2022-01-14T08:27:48+00:00</updated><id>http://localhost:4000/launches/2022/01/14/WelcomeJo</id><content type="html" xml:base="http://localhost:4000/launches/2022/01/14/WelcomeJo.html">&lt;p align=&quot;center&quot;&gt;
+  &lt;figure&gt;
+  &lt;img width=&quot;230&quot; height=&quot;150&quot; src=&quot;/img/JoCartoon.jpg&quot; /&gt;
+  &lt;figcaption&gt;Image credit: MTV,&lt;br /&gt;a fairly accurate cartoon representation of Jo used at her request&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;We are delighted to welcome &lt;b&gt;Jo Mattocks&lt;/b&gt; to the group for the duration of her PhD studies. Jo is part of the highly-competitive MRC Human Genetics Unit 4-year PhD programme and we are excited to support Jo in her studies over the next few years.&lt;/p&gt;
+
+&lt;p&gt;Jo is interested in the modelling of spatiotemporal trajectories of mutation in high grade serous ovarian cancers.&lt;/p&gt;
+
+&lt;p&gt;We are currently expanding the group so please keep an eye out for &lt;b&gt;post-doc ads coming very soon&lt;/b&gt;!&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img width=&quot;460&quot; height=&quot;300&quot; src=&quot;/img/Inclusive.png&quot; /&gt;
+&lt;/p&gt;</content><author><name>Ailith</name></author><category term="launches" /><summary type="html">Image credit: MTV,a fairly accurate cartoon representation of Jo used at her request</summary></entry><entry><title type="html">GOG281/LOGS clinical trial released in The Lancet</title><link href="http://localhost:4000/launches/2022/01/14/LOGStrial.html" rel="alternate" type="text/html" title="GOG281/LOGS clinical trial released in The Lancet" /><published>2022-01-14T08:27:48+00:00</published><updated>2022-01-14T08:27:48+00:00</updated><id>http://localhost:4000/launches/2022/01/14/LOGStrial</id><content type="html" xml:base="http://localhost:4000/launches/2022/01/14/LOGStrial.html">&lt;p align=&quot;center&quot;&gt;
+  &lt;img width=&quot;460&quot; height=&quot;300&quot; src=&quot;/img/LOGSPieChart.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;The GOG281/LOGS clinical trial was released today in The Lancet.&lt;/p&gt;
+
+&lt;p&gt;The trial demonstrated, for the first time, a new standard of care option for women with progressive or relapsed low-grade serous ovarian cancer.&lt;/p&gt;
+
+&lt;p&gt;Trametinib, currently used to treat skin and lung cancers, was found to slow the progression of low-grade serous ovarian cancer and increase the number of patients who respond to treatment.&lt;/p&gt;
+
+&lt;p&gt;We were pleased to contribute to the molecular characterisation of these tumours by processing the sequencing data from their exomes, a small contribution to a much larger team effort led by researchers at the University of Edinburgh and the University of Texas MD Anderson Cancer Center.&lt;/p&gt;</content><author><name>Ailith</name></author><category term="launches" /><summary type="html"></summary></entry><entry><title type="html">Wellcome-University of Edinburgh ISSF3 award</title><link href="http://localhost:4000/launches/2022/01/14/ISSFsuccess.html" rel="alternate" type="text/html" title="Wellcome-University of Edinburgh ISSF3 award" /><published>2022-01-14T08:27:48+00:00</published><updated>2022-01-14T08:27:48+00:00</updated><id>http://localhost:4000/launches/2022/01/14/ISSFsuccess</id><content type="html" xml:base="http://localhost:4000/launches/2022/01/14/ISSFsuccess.html">&lt;p align=&quot;center&quot;&gt;
+  &lt;img width=&quot;460&quot; height=&quot;300&quot; src=&quot;/img/Wellcome-Trust-ISSF-logo16-9.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;We’re delighted to have been awarded a Wellcome-University of Edinburgh ISSF3 award!&lt;/p&gt;
+
+&lt;p&gt;Wellcome’s Institutional Strategic Support Fund (ISSF) is intended to support institutional strategies for the biomedical sciences, with up to £1.75M available to award each academic year.&lt;/p&gt;
+
+&lt;p&gt;This award will fund the generation of some vital preliminary data that will enable us to model spatiotemporal evolutionary trajectories of mutation in high grade serous ovarian cancer in collaboration with Prof Charlie Gourley and Prof Simon Herrington.&lt;/p&gt;</content><author><name>Ailith</name></author><category term="launches" /><summary type="html"></summary></entry><entry><title type="html">New review published in the journal of pathology</title><link href="http://localhost:4000/launches/2022/01/14/NewReviewArticle.html" rel="alternate" type="text/html" title="New review published in the journal of pathology" /><published>2022-01-14T08:27:48+00:00</published><updated>2022-01-14T08:27:48+00:00</updated><id>http://localhost:4000/launches/2022/01/14/NewReviewArticle</id><content type="html" xml:base="http://localhost:4000/launches/2022/01/14/NewReviewArticle.html">&lt;p align=&quot;center&quot;&gt;
+  &lt;figure&gt;
+  &lt;img width=&quot;230&quot; height=&quot;150&quot; src=&quot;/img/JoCartoon.jpg&quot; /&gt;
+  &lt;figcaption&gt;Image credit: MTV,&lt;br /&gt;a fairly accurate cartoon representation of Jo used at her request&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;We are delighted to welcome &lt;b&gt;Jo Mattocks&lt;/b&gt; to the group for the duration of her PhD studies. Jo is part of the highly-competitive MRC Human Genetics Unit 4-year PhD programme and we are excited to support Jo in her studies over the next few years.&lt;/p&gt;
+
+&lt;p&gt;Jo is interested in the modelling of spatiotemporal trajectories of mutation in high grade serous ovarian cancers.&lt;/p&gt;
+
+&lt;p&gt;We are currently expanding the group so please keep an eye out for &lt;b&gt;post-doc ads coming very soon&lt;/b&gt;!&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img width=&quot;460&quot; height=&quot;300&quot; src=&quot;/img/Inclusive.png&quot; /&gt;
+&lt;/p&gt;</content><author><name>Ailith</name></author><category term="launches" /><summary type="html">Image credit: MTV,a fairly accurate cartoon representation of Jo used at her request</summary></entry><entry><title type="html">Ed-DaSH statistics courses launch</title><link href="http://localhost:4000/launches/2021/10/26/EdDaSH-stats-launch.html" rel="alternate" type="text/html" title="Ed-DaSH statistics courses launch" /><published>2021-10-26T09:27:48+01:00</published><updated>2021-10-26T09:27:48+01:00</updated><id>http://localhost:4000/launches/2021/10/26/EdDaSH-stats-launch</id><content type="html" xml:base="http://localhost:4000/launches/2021/10/26/EdDaSH-stats-launch.html">&lt;p align=&quot;center&quot;&gt;
+  &lt;img width=&quot;460&quot; height=&quot;300&quot; src=&quot;/img/Ed_DaSH_blue_circle.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://edcarp.github.io/Ed-DaSH/index.html&quot;&gt;The University of Edinburgh - Data Science Training in Health and Bioscience (Ed-DaSH)&lt;/a&gt; courses have launched.&lt;/p&gt;
+
+&lt;p&gt;These carpentries-style courses include a substantial statistical workstream including courses in introductory statistics, high-dimensional statistics and machine learning. Over the last 6 months Ailith has been leading the development of the high-dimensional statistics course in collaboration with Catalina Vallejos (MRC HGU, Turing Institute), Alan O’Callaghan (MRC HGU) and Gail Robertson (Statistical consultancy unit, School of Maths).&lt;/p&gt;
+
+&lt;p&gt;We are delighted that the first run of the high-dimensional stats course was fully booked and we intend to run it 5 more times as part of the Ed-DaSH project throughout the next 2 years, developing the materials as we go along.&lt;/p&gt;
+
+&lt;p&gt;These courses are available in the Carpentries incubator:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://carpentries-incubator.github.io/simple-linear-regression-public-health/&quot;&gt;Introductory statistics&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://carpentries-incubator.github.io/high-dimensional-stats-r/&quot;&gt;High-dimensional statistics&lt;/a&gt;&lt;/p&gt;</content><author><name>Ailith</name></author><category term="launches" /><summary type="html"></summary></entry><entry><title type="html">Ailith is now a certified Instructor with The Carpentries</title><link href="http://localhost:4000/launches/2021/07/15/carpentries-certification.html" rel="alternate" type="text/html" title="Ailith is now a certified Instructor with The Carpentries" /><published>2021-07-15T09:27:48+01:00</published><updated>2021-07-15T09:27:48+01:00</updated><id>http://localhost:4000/launches/2021/07/15/carpentries-certification</id><content type="html" xml:base="http://localhost:4000/launches/2021/07/15/carpentries-certification.html">&lt;p align=&quot;center&quot;&gt;
   &lt;img width=&quot;460&quot; height=&quot;300&quot; src=&quot;/img/carpentries.png&quot; /&gt;
 &lt;/p&gt;
 
