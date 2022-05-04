@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome Jo Mattocks to the lab!"
-date:   2022-01-14 09:27:48 +0100
+date:   2022-04-01 09:27:48 +0100
 categories: launches
 hero_image: /img/Ailith_research_image_withname.jpg
 hero_height: is-small

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "GOG281/LOGS clinical trial released in The Lancet"
-date:   2022-01-14 09:27:48 +0100
+date:   2022-02-04 09:27:48 +0100
 categories: launches
 hero_image: /img/Ailith_research_image_withname.jpg
 hero_height: is-small
