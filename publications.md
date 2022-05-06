@@ -15,13 +15,15 @@ hero_height: is-small
 <div class="row">
     <div class="columns">
         <div class="column">
-            <img src="/img/BRCASVs.png" alt="BRCASVs" width="600"/>
+            <img src="/img/LandscapeofSVs.png" alt="Landscape of SVs" width="600"/>
             </div>
             <div class="column">
-                    
-                <p><b>Structural Variants at the <i>BRCA1/2</i> Loci are a Common Source of Homologous Repair Deficiency in High-grade Serous Ovarian Carcinoma</b></p>
-                <p><b>Ailith Ewing</b>, Alison Meynert, Michael Churchman, Graeme R. Grimes, Robert L. Hollis, C. Simon Herrington, Tzyvia Rye, Clare Bartos, Ian Croy, Michelle Ferguson, Mairi Lennie, Trevor McGoldrick, Neil McPhail, Nadeem Siddiqui, Suzanne Dowson, Rosalind Glasspool, Melanie Mackean, Fiona Nussey, Brian McDade, Darren Ennis, Lynn McMahon, Athena Matakidou, Brian Dougherty, Ruth March, J. Carl Barrett, Iain A. McNeish, for the Scottish Genomes Partnership, Andrew V. Biankin, Patricia Roxburgh, Charlie Gourley and Colin A. Semple</p>
-                <p><a href="https://clincancerres.aacrjournals.org/content/27/11/3201">Clin Cancer Res June 1 2021 (27) (11) 3201-3214; DOI: 10.1158/1078-0432.CCR-20-4068.</a></p>
+                <br>
+                <br>    
+                <br>
+                <p><b>Unravelling the tumour genome: The evolutionary and clinical impacts of structural variants in tumourigenesis</b></p>
+                <p>Alhafidz Hamdan, Ailith Ewing.</p>
+                <p><a href="https://onlinelibrary.wiley.com/doi/10.1002/path.5901"> Journal of Pathology (2022), https://doi.org/10.1002/path.5901</a></p>
 
         </div>
     </div>
@@ -29,9 +31,11 @@ hero_height: is-small
 
 ## Selected publications
 
-Aitken SJ, Anderson CJ, Connor F, …,<b>Ewing A</b>,…, Taylor M. ‘Pervasive lesion segregation shapes cancer genome evolution’ (2020) Nature 583 (7815), 265-270.
+Gershenson D, Miller A, Brady WE, ..., <b>Ewing A</b>,..., Gourley C. 'Trametinib versus standard of care in patients with recurrent low-grade serous ovarian cancer (GOG 281/LOGS): an international, randomised, open-label, multicentre, phase 2/3 trial'. (2022) The Lancet. (399) (10324) 541-553.
 
-Vaughan-Shaw P, Gaga L, Ooi LY,… <b>Ewing A</b>…Dunlop M. ‘Low plasma vitamin D is associated with adverse colorectal cancer survival after surgical resection, independent of systemic inflammatory response’ (2020). Gut, gutjnl-2018-317922.
+<b>Ewing A</b>, Meynert A, Churchman M et al. 'Structural Variants at the <i>BRCA1/2</i> Loci are a Common Source of Homologous Repair Deficiency in High-grade Serous Ovarian Carcinoma' (2021) Clinical Cancer Research (27) (11) 3201-3214.
+
+Aitken SJ, Anderson CJ, Connor F, …,<b>Ewing A</b>,…, Taylor M. ‘Pervasive lesion segregation shapes cancer genome evolution’ (2020) Nature 583 (7815), 265-270.
 
 Travnickova J, Wojciechowska S, Khamseh A,…<b>Ewing A</b>…Patton E. ‘Zebrafish MITF-low melanoma subtype models reveal transcriptional subclusters and MITF-independent residual disease’ (2019). Cancer research. 79 (22), 5769-5784.
 

@@ -16,7 +16,7 @@ hide_share_buttons: true
 Our invited contribution to the 2022 Annual Review Issue: 'Recent Advances in Pathology' is published at the Journal of Pathology.
 
 <p align="center">
-  <b> Unravelling the tumour genome: The evolutionary and clinical impacts of structural variants in tumourigenesis </b>
+  <b> <a href="https://onlinelibrary.wiley.com/doi/10.1002/path.5901"> Unravelling the tumour genome: The evolutionary and clinical impacts of structural variants in tumourigenesis </a></b>
 </p>
 
 Abstract:

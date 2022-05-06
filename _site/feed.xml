@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-05-04T14:33:17+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Ewing Group</title><subtitle>Statistical Cancer Genomics</subtitle><entry><title type="html">New Review: The evolutionary and clinical impacts of SVs in tumours</title><link href="http://localhost:4000/launches/2022/04/28/NewReview.html" rel="alternate" type="text/html" title="New Review: The evolutionary and clinical impacts of SVs in tumours" /><published>2022-04-28T09:27:48+01:00</published><updated>2022-04-28T09:27:48+01:00</updated><id>http://localhost:4000/launches/2022/04/28/NewReview</id><content type="html" xml:base="http://localhost:4000/launches/2022/04/28/NewReview.html">&lt;p align=&quot;center&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-05-06T17:04:51+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Ewing Group</title><subtitle>Statistical Cancer Genomics</subtitle><entry><title type="html">New Review: The evolutionary and clinical impacts of SVs in tumours</title><link href="http://localhost:4000/launches/2022/04/28/NewReview.html" rel="alternate" type="text/html" title="New Review: The evolutionary and clinical impacts of SVs in tumours" /><published>2022-04-28T09:27:48+01:00</published><updated>2022-04-28T09:27:48+01:00</updated><id>http://localhost:4000/launches/2022/04/28/NewReview</id><content type="html" xml:base="http://localhost:4000/launches/2022/04/28/NewReview.html">&lt;p align=&quot;center&quot;&gt;
   &lt;img width=&quot;900&quot; height=&quot;450&quot; src=&quot;/img/NewReview.png&quot; /&gt;
 &lt;/p&gt;
 
 &lt;p&gt;Our invited contribution to the 2022 Annual Review Issue: ‘Recent Advances in Pathology’ is published at the Journal of Pathology.&lt;/p&gt;
 
 &lt;p align=&quot;center&quot;&gt;
-  &lt;b&gt; Unravelling the tumour genome: The evolutionary and clinical impacts of structural variants in tumourigenesis &lt;/b&gt;
+  &lt;b&gt; &lt;a href=&quot;https://onlinelibrary.wiley.com/doi/10.1002/path.5901&quot;&gt; Unravelling the tumour genome: The evolutionary and clinical impacts of structural variants in tumourigenesis &lt;/a&gt;&lt;/b&gt;
 &lt;/p&gt;
 
 &lt;p&gt;Abstract:
@@ -16,7 +16,7 @@ Structural variants (SVs) represent a major source of aberration in tumour genom
   &lt;/figure&gt;
 &lt;/p&gt;
 
-&lt;p&gt;We are delighted to welcome &lt;b&gt;Jo Mattocks&lt;/b&gt; to the group for the duration of her PhD studies. Jo is part of the highly-competitive MRC Human Genetics Unit 4-year PhD programme and we are excited to support Jo in her studies over the next few years.&lt;/p&gt;
+&lt;p&gt;We are delighted to welcome &lt;b&gt;&lt;a href=&quot;/Jo&quot;&gt;Jo Mattocks&lt;/a&gt;&lt;/b&gt; to the group for the duration of her PhD studies. Jo is part of the highly-competitive MRC Human Genetics Unit 4-year PhD programme and we are excited to support Jo in her studies over the next few years.&lt;/p&gt;
 
 &lt;p&gt;Jo is interested in the modelling of spatiotemporal trajectories of mutation in high grade serous ovarian cancers.&lt;/p&gt;
 
@@ -28,7 +28,7 @@ Structural variants (SVs) represent a major source of aberration in tumour genom
   &lt;img width=&quot;460&quot; height=&quot;300&quot; src=&quot;/img/LOGSPieChart.png&quot; /&gt;
 &lt;/p&gt;
 
-&lt;p&gt;The GOG281/LOGS clinical trial was released today in The Lancet.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&quot;https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02175-9/fulltext&quot;&gt;GOG281/LOGS clinical trial&lt;/a&gt; was released today in The Lancet.&lt;/p&gt;
 
 &lt;p&gt;The trial demonstrated, for the first time, a new standard of care option for women with progressive or relapsed low-grade serous ovarian cancer.&lt;/p&gt;
 

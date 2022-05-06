@@ -16,7 +16,7 @@ hide_share_buttons: true
   </figure>
 </p>
 
-We are delighted to welcome <b>Jo Mattocks</b> to the group for the duration of her PhD studies. Jo is part of the highly-competitive MRC Human Genetics Unit 4-year PhD programme and we are excited to support Jo in her studies over the next few years.
+We are delighted to welcome <b>[Jo Mattocks](/Jo)</b> to the group for the duration of her PhD studies. Jo is part of the highly-competitive MRC Human Genetics Unit 4-year PhD programme and we are excited to support Jo in her studies over the next few years.
 
 
 Jo is interested in the modelling of spatiotemporal trajectories of mutation in high grade serous ovarian cancers.

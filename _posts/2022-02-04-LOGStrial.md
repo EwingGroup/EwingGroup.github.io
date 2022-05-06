@@ -13,7 +13,7 @@ hide_share_buttons: true
   <img width="460" height="300" src="/img/LOGSPieChart.png">
 </p>
 
-The GOG281/LOGS clinical trial was released today in The Lancet.
+The <a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)02175-9/fulltext">GOG281/LOGS clinical trial</a> was released today in The Lancet.
 
 The trial demonstrated, for the first time, a new standard of care option for women with progressive or relapsed low-grade serous ovarian cancer. 
 
