@@ -11,8 +11,7 @@ hide_share_buttons: true
 ---
 <p align="center">
   <figure>
-  <img width="230" height="150" src="/img/JoCartoon.jpg">
-  <figcaption>Image credit: MTV,<br>a fairly accurate cartoon representation of Jo used at her request</figcaption>
+  <img width="230" height="150" src="/img/JoHeadshot.jpg">
   </figure>
 </p>
 
