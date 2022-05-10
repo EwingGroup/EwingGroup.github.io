@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "WE ARE HIRING!"
-date:   2022-04-28 09:27:48 +0100
+date:   2022-05-10 09:27:48 +0100
 categories: launches
 hero_image: /img/Ailith_research_image_withname.jpg
 hero_height: is-small
@@ -33,6 +33,8 @@ OR
 A computational biologist with experience analysing high-throughput genomic data, particularly from tumours.
  </p>
 Please drop me an email (Dr Ailith Ewing (Ailith.Ewing@ed.ac.uk)) with any informal enquiries.
+
+Closing date 7th June 2022 5pm.
 
 <a href="https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4143" class="button is-primary">
 Apply here!
