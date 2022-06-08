@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "WE ARE HIRING!"
+title:  "WE ARE HIRING! - CLOSED"
 date:   2022-05-10 09:27:48 +0100
 categories: launches
 hero_image: /img/Ailith_research_image_withname.jpg

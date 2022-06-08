@@ -17,13 +17,10 @@ Ewing Research Group
 
 
 
-<p align="center">
-<br>
-<a href="https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4143" class="button is-primary">
-WE'RE HIRING A POSTDOC! 
-</a>
 
-<br>
+<p align="center">
+
+
 <font size="5">
 <br>
 Investigating the evolution of structural variants in tumours to inform patient stratification, better predict treatment response and improve clinical outcome.
