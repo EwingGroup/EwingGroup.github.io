@@ -24,7 +24,7 @@ This award will act as a springboard allowing us the financial breathing space t
 
 Congratulations also to the other recipients of these inaugural fellowships: my talented colleagues Dr Ava Khamseh and Dr Robb Hollis. 
 
-Link to full IGC press release: https://www.ed.ac.uk/institute-genetics-cancer/news-and-events/news-2022/igc-langmuir-talent-dev-fellowship-cancer-research
+Link to full IGC press release: <a href= "https://www.ed.ac.uk/institute-genetics-cancer/news-and-events/news-2022/igc-langmuir-talent-dev-fellowship-cancer-research">https://www.ed.ac.uk/institute-genetics-cancer/news-and-events/news-2022/igc-langmuir-talent-dev-fellowship-cancer-research</a>.
 
 
 
