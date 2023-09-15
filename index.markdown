@@ -28,7 +28,7 @@ Investigating the evolution of structural variants in tumours to inform patient 
 <br>
 <font size="4">
 <br>
-We are a statistical cancer genomics group based at the MRC Human Genetics Unit and Cancer Research UK Edinburgh Centre, Institute of Genetics and Cancer, University of Edinburgh.
+We are a statistical cancer genomics group based at the MRC Human Genetics Unit and Cancer Research UK Scotland Centre, Institute of Genetics and Cancer, University of Edinburgh.
 </font>
 </p>
 
