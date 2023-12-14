@@ -1,4 +1,37 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-10-23T12:08:41+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Ewing Group</title><subtitle>Statistical Cancer Genomics</subtitle><entry><title type="html">The Mark Foundation Chromosomal Instability in Cancer workshop</title><link href="http://localhost:4000/launches/2023/06/29/MarkFoundationCIN.html" rel="alternate" type="text/html" title="The Mark Foundation Chromosomal Instability in Cancer workshop" /><published>2023-06-29T09:27:48+01:00</published><updated>2023-06-29T09:27:48+01:00</updated><id>http://localhost:4000/launches/2023/06/29/MarkFoundationCIN</id><content type="html" xml:base="http://localhost:4000/launches/2023/06/29/MarkFoundationCIN.html">&lt;p align=&quot;center&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-12-14T19:44:14+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Ewing Group</title><subtitle>Statistical Cancer Genomics</subtitle><entry><title type="html">Congratulations! Dr Stuart Brown passed his viva!</title><link href="http://localhost:4000/launches/2023/12/04/DrSBrown.html" rel="alternate" type="text/html" title="Congratulations! Dr Stuart Brown passed his viva!" /><published>2023-12-04T08:27:48+00:00</published><updated>2023-12-04T08:27:48+00:00</updated><id>http://localhost:4000/launches/2023/12/04/DrSBrown</id><content type="html" xml:base="http://localhost:4000/launches/2023/12/04/DrSBrown.html">&lt;p align=&quot;center&quot;&gt;
+  &lt;figure&gt;
+  &lt;img width=&quot;600&quot; height=&quot;400&quot; src=&quot;/img/SBrown_pokemon.jpeg&quot; /&gt;
+  &lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Dr Stuart Brown passed his viva with minor corrections!&lt;/p&gt;
+
+&lt;p&gt;His thesis titled:
+&lt;br /&gt;&lt;/p&gt;
+&lt;h4&gt;&lt;center&gt;&apos;Genomic catastrophes: Complex Structural Variants in High Grade Serous Ovarian Cancer&apos;&lt;/center&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;br /&gt;
+investigates the prevalence, co-occurrence, distribution, and impact of multiple complex structural variant types on survival in high grade serous ovarian cancer and provides novel insights into the genomic diversity of high grade serous ovarian cancer.&lt;/p&gt;
+
+&lt;p&gt;Stuart is now working as a postdoc in Prof Bass Hassan’s research group at the University of Oxford, applying his skills to study the genomics of sarcoma.&lt;/p&gt;
+
+&lt;p&gt;Congratulations Stuart!&lt;/p&gt;</content><author><name>Ailith</name></author><category term="launches" /><summary type="html"></summary></entry><entry><title type="html">Welcome Rashi and Ismail to the group!</title><link href="http://localhost:4000/launches/2023/09/01/WelcomeRashiIsmail.html" rel="alternate" type="text/html" title="Welcome Rashi and Ismail to the group!" /><published>2023-09-01T09:27:48+01:00</published><updated>2023-09-01T09:27:48+01:00</updated><id>http://localhost:4000/launches/2023/09/01/WelcomeRashiIsmail</id><content type="html" xml:base="http://localhost:4000/launches/2023/09/01/WelcomeRashiIsmail.html">&lt;div class=&quot;columns&quot;&gt;
+    &lt;div class=&quot;column&quot;&gt;
+    &lt;p align=&quot;right&quot;&gt;
+        &lt;img src=&quot;/img/Rashi.jpg&quot; alt=&quot;Rashi&quot; width=&quot;410&quot; /&gt;
+    &lt;/p&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;column&quot;&gt;
+        &lt;p&gt;
+            &lt;img src=&quot;/img/Ismail.jpg&quot; alt=&quot;Ismail&quot; width=&quot;300&quot; /&gt;
+        &lt;/p&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;We are delighted to welcome &lt;b&gt;&lt;a href=&quot;/Rashi&quot;&gt;Rashi Krishna&lt;/a&gt;&lt;/b&gt; and &lt;b&gt;&lt;a href=&quot;/Ismail&quot;&gt;İsmail Özkaraca&lt;/a&gt;&lt;/b&gt; to the group.&lt;/p&gt;
+
+&lt;p&gt;Rashi is a PhD student co-supervised with Prof Val Brunton and aims to identify drug response biomarkers in uterine leiomyosarcoma. We are excited to have Rashi in the group as she delves into computational cancer genomics alongside her experimental work.&lt;/p&gt;
+
+&lt;p&gt;Welcome also to İsmail who joins the group as a postdoctoral fellow interested in the modelling of spatiotemporal trajectories of structural variation in high grade serous ovarian cancers. We’re looking forward to supporting İsmail as he applies his mathematical skills and experience to tumour biology.&lt;/p&gt;</content><author><name>Ailith</name></author><category term="launches" /><summary type="html"></summary></entry><entry><title type="html">The Mark Foundation Chromosomal Instability in Cancer workshop</title><link href="http://localhost:4000/launches/2023/06/29/MarkFoundationCIN.html" rel="alternate" type="text/html" title="The Mark Foundation Chromosomal Instability in Cancer workshop" /><published>2023-06-29T09:27:48+01:00</published><updated>2023-06-29T09:27:48+01:00</updated><id>http://localhost:4000/launches/2023/06/29/MarkFoundationCIN</id><content type="html" xml:base="http://localhost:4000/launches/2023/06/29/MarkFoundationCIN.html">&lt;p align=&quot;center&quot;&gt;
   &lt;figure&gt;
   &lt;img width=&quot;400&quot; height=&quot;200&quot; src=&quot;/img/MarkFoundation.png&quot; /&gt;
   &lt;figcaption&gt;Img credit: The Mark Foundation for Cancer Research&lt;/figcaption&gt;
@@ -129,28 +162,4 @@ Structural variants (SVs) represent a major source of aberration in tumour genom
 
 &lt;p&gt;Wellcome’s Institutional Strategic Support Fund (ISSF) is intended to support institutional strategies for the biomedical sciences, with up to £1.75M available to award each academic year.&lt;/p&gt;
 
-&lt;p&gt;This award will fund the generation of some vital preliminary data that will enable us to model spatiotemporal evolutionary trajectories of mutation in high grade serous ovarian cancer in collaboration with Prof Charlie Gourley and Prof Simon Herrington.&lt;/p&gt;</content><author><name>Ailith</name></author><category term="launches" /><summary type="html"></summary></entry><entry><title type="html">Ed-DaSH statistics courses launch</title><link href="http://localhost:4000/launches/2021/10/26/EdDaSH-stats-launch.html" rel="alternate" type="text/html" title="Ed-DaSH statistics courses launch" /><published>2021-10-26T09:27:48+01:00</published><updated>2021-10-26T09:27:48+01:00</updated><id>http://localhost:4000/launches/2021/10/26/EdDaSH-stats-launch</id><content type="html" xml:base="http://localhost:4000/launches/2021/10/26/EdDaSH-stats-launch.html">&lt;p align=&quot;center&quot;&gt;
-  &lt;img width=&quot;460&quot; height=&quot;300&quot; src=&quot;/img/Ed_DaSH_blue_circle.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://edcarp.github.io/Ed-DaSH/index.html&quot;&gt;The University of Edinburgh - Data Science Training in Health and Bioscience (Ed-DaSH)&lt;/a&gt; courses have launched.&lt;/p&gt;
-
-&lt;p&gt;These carpentries-style courses include a substantial statistical workstream including courses in introductory statistics, high-dimensional statistics and machine learning. Over the last 6 months Ailith has been leading the development of the high-dimensional statistics course in collaboration with Catalina Vallejos (MRC HGU, Turing Institute), Alan O’Callaghan (MRC HGU) and Gail Robertson (Statistical consultancy unit, School of Maths).&lt;/p&gt;
-
-&lt;p&gt;We are delighted that the first run of the high-dimensional stats course was fully booked and we intend to run it 5 more times as part of the Ed-DaSH project throughout the next 2 years, developing the materials as we go along.&lt;/p&gt;
-
-&lt;p&gt;These courses are available in the Carpentries incubator:&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://carpentries-incubator.github.io/simple-linear-regression-public-health/&quot;&gt;Introductory statistics&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://carpentries-incubator.github.io/high-dimensional-stats-r/&quot;&gt;High-dimensional statistics&lt;/a&gt;&lt;/p&gt;</content><author><name>Ailith</name></author><category term="launches" /><summary type="html"></summary></entry><entry><title type="html">Ailith is now a certified Instructor with The Carpentries</title><link href="http://localhost:4000/launches/2021/07/15/carpentries-certification.html" rel="alternate" type="text/html" title="Ailith is now a certified Instructor with The Carpentries" /><published>2021-07-15T09:27:48+01:00</published><updated>2021-07-15T09:27:48+01:00</updated><id>http://localhost:4000/launches/2021/07/15/carpentries-certification</id><content type="html" xml:base="http://localhost:4000/launches/2021/07/15/carpentries-certification.html">&lt;p align=&quot;center&quot;&gt;
-  &lt;img width=&quot;460&quot; height=&quot;300&quot; src=&quot;/img/carpentries.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Having completed instructor training and a checkout process which involves contributing to existing lessons, community discussions and passing a teaching demonstration, I am now a certified instructor with &lt;strong&gt;The Carpentries&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://carpentries.org/&quot;&gt;The Carpentries project&lt;/a&gt; comprises the Software Carpentry, Data Carpentry, and Library Carpentry communities of Instructors, Trainers, Maintainers, helpers, and supporters who share a mission to teach foundational computational and data science skills to researchers.&lt;/p&gt;
-
-&lt;p&gt;For the last couple of years, I have been working hard to increase the availability and quality of training in statistics and data science for biomedical researchers in the institute and in the wider research community. This formal training will allow me to teach at a higher standard and develop new courses specifically catered to the biomedical research community in the future.&lt;/p&gt;
-
-&lt;p&gt;Look out for new courses coming Autumn 2021…&lt;/p&gt;</content><author><name>Ailith</name></author><category term="launches" /><summary type="html"></summary></entry></feed>
+&lt;p&gt;This award will fund the generation of some vital preliminary data that will enable us to model spatiotemporal evolutionary trajectories of mutation in high grade serous ovarian cancer in collaboration with Prof Charlie Gourley and Prof Simon Herrington.&lt;/p&gt;</content><author><name>Ailith</name></author><category term="launches" /><summary type="html"></summary></entry></feed>
