@@ -15,21 +15,24 @@ hero_height: is-small
 <div class="row">
     <div class="columns">
         <div class="column">
-            <img src="/img/LandscapeofSVs.png" alt="Landscape of SVs" width="600"/>
+            <img src="/img/Fig1_markerHGSOC.png" alt="Landscape of HGSOC" width="1000"/>
             </div>
             <div class="column">
                 <br>
                 <br>    
                 <br>
-                <p><b>Unravelling the tumour genome: The evolutionary and clinical impacts of structural variants in tumourigenesis</b></p>
-                <p>Alhafidz Hamdan, Ailith Ewing.</p>
-                <p><a href="https://onlinelibrary.wiley.com/doi/10.1002/path.5901"> Journal of Pathology (2022), https://doi.org/10.1002/path.5901</a></p>
+                <p><b>Divergent trajectories to structural diversity impact patient survival in high grade
+serous ovarian cancer.</b></p>
+                <p><a href="https://www.biorxiv.org/content/10.1101/2024.01.12.575376v1.full.pdf"> Ewing et al (2024), bioRxiv.</a></p>
+                <p> Contributions from <b>Jo</b>, <b>Kitty</b> and <b>Stuart</b>.</p>
 
         </div>
     </div>
 </div>
 
 ## Selected publications
+
+Hamdan A and <b>Ewing A</b>. 'Unravelling the tumour genome: The evolutionary and clinical impacts of structural variants in tumourigenesis'. (2022) The Journal of Pathology, https://doi.org/10.1002/path.5901.
 
 Gershenson D, Miller A, Brady WE, ..., <b>Ewing A</b>,..., Gourley C. 'Trametinib versus standard of care in patients with recurrent low-grade serous ovarian cancer (GOG 281/LOGS): an international, randomised, open-label, multicentre, phase 2/3 trial'. (2022) The Lancet. (399) (10324) 541-553.
 

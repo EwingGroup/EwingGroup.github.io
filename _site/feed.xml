@@ -1,4 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-12-14T19:44:14+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Ewing Group</title><subtitle>Statistical Cancer Genomics</subtitle><entry><title type="html">Congratulations! Dr Stuart Brown passed his viva!</title><link href="http://localhost:4000/launches/2023/12/04/DrSBrown.html" rel="alternate" type="text/html" title="Congratulations! Dr Stuart Brown passed his viva!" /><published>2023-12-04T08:27:48+00:00</published><updated>2023-12-04T08:27:48+00:00</updated><id>http://localhost:4000/launches/2023/12/04/DrSBrown</id><content type="html" xml:base="http://localhost:4000/launches/2023/12/04/DrSBrown.html">&lt;p align=&quot;center&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2024-01-24T15:36:50+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Ewing Group</title><subtitle>Statistical Cancer Genomics</subtitle><entry><title type="html">NEW PREPRINT: Divergent trajectories to structural diversity impact patient survival in high grade serous ovarian cancer</title><link href="http://localhost:4000/publications/2024/01/15/NewPreprint.html" rel="alternate" type="text/html" title="NEW PREPRINT: Divergent trajectories to structural diversity impact patient survival in high grade serous ovarian cancer" /><published>2024-01-15T13:00:00+00:00</published><updated>2024-01-15T13:00:00+00:00</updated><id>http://localhost:4000/publications/2024/01/15/NewPreprint</id><content type="html" xml:base="http://localhost:4000/publications/2024/01/15/NewPreprint.html">&lt;p align=&quot;center&quot;&gt;
+  &lt;img width=&quot;1000&quot; height=&quot;500&quot; src=&quot;/img/Fig1_markerHGSOC.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;We have posted a &lt;a href=&quot;https://www.biorxiv.org/content/10.1101/2024.01.12.575376v1&quot;&gt;new preprint&lt;/a&gt; on bioRxiv ‘Divergent trajectories to structural diversity impact patient survival in high grade serous ovarian cancer’.&lt;/p&gt;
+
+&lt;p&gt;This work highlights high grade serous ovarian carcinoma as an exemplar tumour type for studying chromosomal instability and is the result of a combined effort across the Scottish High Grade Serous Ovarian Consortium to comprehensively characterise the mutational landscape driving high grade serous ovarian cancer.&lt;/p&gt;
+
+&lt;p&gt;I have highlighted our main findings in a &lt;a href=&quot;https://x.com/Ailith_Ewing/status/1747291048206901394?s=20&quot;&gt;tweetorial&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Well done to &lt;a href=&quot;/Kitty&quot;&gt;Kitty&lt;/a&gt;, &lt;a href=&quot;/Jo&quot;&gt;Jo&lt;/a&gt; and &lt;span style=&quot;color:#0000EE&quot;&gt;Stuart&lt;/span&gt; for all the work they contributed to this study!&lt;/p&gt;
+
+&lt;h4&gt; Abstract &lt;/h4&gt;
+
+&lt;p&gt;Deciphering the structural variation across tumour genomes is crucial to determine the
+events driving tumour progression and better understand tumour adaptation and evolution.
+High grade serous ovarian cancer (HGSOC) is an exemplar tumour type showing extreme,
+but poorly characterised structural diversity. We comprehensively describe the mutational
+landscape driving HGSOC, exploiting a large (N=324), deeply whole genome sequenced
+dataset. We reveal two divergent evolutionary trajectories, affecting patient survival and
+involving differing genomic environments. One involves homologous recombination repair
+deficiency (HRD) while the other is dominated by whole genome duplication (WGD) with
+frequent chromothripsis, breakage-fusion-bridges and extra-chromosomal DNA. These
+trajectories contribute to structural variation hotspots, containing novel candidate driver
+genes with significantly altered expression. While structural variation predominantly drives
+tumorigenesis, we also find high mtDNA mutation loads associated with shorter patient
+survival, and acting in combination with alterations in the nuclear genome to impact
+prognosis and suggesting new strategies for patient stratification.&lt;/p&gt;</content><author><name>Ailith</name></author><category term="publications" /><summary type="html"></summary></entry><entry><title type="html">Congratulations! Dr Stuart Brown passed his viva!</title><link href="http://localhost:4000/launches/2023/12/04/DrSBrown.html" rel="alternate" type="text/html" title="Congratulations! Dr Stuart Brown passed his viva!" /><published>2023-12-04T08:27:48+00:00</published><updated>2023-12-04T08:27:48+00:00</updated><id>http://localhost:4000/launches/2023/12/04/DrSBrown</id><content type="html" xml:base="http://localhost:4000/launches/2023/12/04/DrSBrown.html">&lt;p align=&quot;center&quot;&gt;
   &lt;figure&gt;
   &lt;img width=&quot;600&quot; height=&quot;400&quot; src=&quot;/img/SBrown_pokemon.jpeg&quot; /&gt;
   &lt;/figure&gt;
@@ -154,12 +181,4 @@ Structural variants (SVs) represent a major source of aberration in tumour genom
 
 &lt;p&gt;Trametinib, currently used to treat skin and lung cancers, was found to slow the progression of low-grade serous ovarian cancer and increase the number of patients who respond to treatment.&lt;/p&gt;
 
-&lt;p&gt;We were pleased to contribute to the molecular characterisation of these tumours by processing the sequencing data from their exomes, a small contribution to a much larger team effort led by researchers at the University of Edinburgh and the University of Texas MD Anderson Cancer Center.&lt;/p&gt;</content><author><name>Ailith</name></author><category term="launches" /><summary type="html"></summary></entry><entry><title type="html">Wellcome-University of Edinburgh ISSF3 award</title><link href="http://localhost:4000/launches/2022/01/14/ISSFsuccess.html" rel="alternate" type="text/html" title="Wellcome-University of Edinburgh ISSF3 award" /><published>2022-01-14T08:27:48+00:00</published><updated>2022-01-14T08:27:48+00:00</updated><id>http://localhost:4000/launches/2022/01/14/ISSFsuccess</id><content type="html" xml:base="http://localhost:4000/launches/2022/01/14/ISSFsuccess.html">&lt;p align=&quot;center&quot;&gt;
-  &lt;img width=&quot;460&quot; height=&quot;300&quot; src=&quot;/img/Wellcome-Trust-ISSF-logo16-9.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;We’re delighted to have been awarded a Wellcome-University of Edinburgh ISSF3 award!&lt;/p&gt;
-
-&lt;p&gt;Wellcome’s Institutional Strategic Support Fund (ISSF) is intended to support institutional strategies for the biomedical sciences, with up to £1.75M available to award each academic year.&lt;/p&gt;
-
-&lt;p&gt;This award will fund the generation of some vital preliminary data that will enable us to model spatiotemporal evolutionary trajectories of mutation in high grade serous ovarian cancer in collaboration with Prof Charlie Gourley and Prof Simon Herrington.&lt;/p&gt;</content><author><name>Ailith</name></author><category term="launches" /><summary type="html"></summary></entry></feed>
+&lt;p&gt;We were pleased to contribute to the molecular characterisation of these tumours by processing the sequencing data from their exomes, a small contribution to a much larger team effort led by researchers at the University of Edinburgh and the University of Texas MD Anderson Cancer Center.&lt;/p&gt;</content><author><name>Ailith</name></author><category term="launches" /><summary type="html"></summary></entry></feed>
