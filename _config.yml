@@ -29,10 +29,11 @@ github_username:  ailithewing
 
 # Build settings
 #theme: minima
-remote_theme: chrisrhymes/bulma-clean-theme
+theme: bulma-clean-theme
 plugins:
   - jekyll-feed
   - jekyll-gist
+  - jekyll-paginate
   
 paginate: 10
 paginate_path: "/news/page:num"

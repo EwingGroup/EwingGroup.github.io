@@ -1,12 +1,6 @@
 style: is-light
 height: is-medium
 items:
-  - title: Twitter
-    subtitle: Ailith_Ewing
-    icon: fa-twitter
-    icon_brand: true
-    call_to_action_name: Follow us!
-    call_to_action_link: https://twitter.com/Ailith_Ewing
   - title: GitHub
     subtitle: "EwingGroup Organisation"
     icon: fa-github
@@ -16,6 +10,6 @@ items:
   - title: Find out more
     subtitle: Ailith dot Ewing at ed dot ac dot uk
     icon: fa-envelope
-    call_to_action_name: Check out the institute!
+    call_to_action_name: Institute of Genetics and Cancer
     call_to_action_link: https://www.ed.ac.uk/institute-genetics-cancer
     

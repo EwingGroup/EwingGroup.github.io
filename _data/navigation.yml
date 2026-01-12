@@ -1,12 +1,6 @@
 - name: Research
-  link: research
-- name: News
-  link: /news/
-- name: People
-  link: people
-- name: Publications
   link: publications
-#- name: Software
-#  link: software
+- name: People
+  link: people_nextdest
 - name: Contact
   link: contact
