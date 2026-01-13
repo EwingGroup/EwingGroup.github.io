@@ -6,29 +6,52 @@ hero_image: /img/Ailith_research_image_withname.jpg
 hero_height: is-small
 ---
 
-# Publications
+# Research
 
 ## Recent highlights
 
 <br>
 
+<!--
 <div class="row">
     <div class="columns">
-        <div class="column">
-            <img src="/img/Fig1_markerHGSOC.png" alt="Landscape of HGSOC" width="1000"/>
+        <div class="column is-5">
+        <br>
+        <br>
+            <img src="/img/SyncFigure.png" alt="Synchronised Gains in HGSOC" width="500"/>
             </div>
-            <div class="column">
-                <br>
-                <br>    
-                <br>
-                <p><b>Divergent trajectories to structural diversity impact patient survival in high grade
-serous ovarian cancer.</b></p>
-                <p><a href="https://www.biorxiv.org/content/10.1101/2024.01.12.575376v1.full.pdf"> Ewing et al (2024), bioRxiv.</a></p>
-                <p> Contributions from <b>Jo</b>, <b>Kitty</b> and <b>Stuart</b>.</p>
+            <div class="column is-7">
+               
+                <a href="https://www.nature.com/articles/s41467-025-60655-y"> <h3>Synchrony of copy number gains implicates driver genes in high grade serous ovarian cancer</h3></a>
+                <p> Ozkaraca M.I., Meynert A., Aitken S., ..., Ewing A. Synchrony of copy number gains implicates driver genes in high grade serous ovarian cancer. BioRxiv (2026). <a href="https://www.nature.com/articles/s41467-025-60655-y">biorxiv_doi</a></p>
+                
+  
 
         </div>
     </div>
 </div>
+<br>
+<br> -->
+
+<div class="row">
+    <div class="columns">
+        <div class="column is-5">
+        <br>
+        <br>
+            <img src="/img/MarkerPaper.png" alt="Landscape of HGSOC" width="500"/>
+            </div>
+            <div class="column is-7">
+               
+                <a href="https://www.nature.com/articles/s41467-025-60655-y"> <h3>Divergent trajectories to structural diversity impact patient survival in high grade serous ovarian cancer</h3></a>
+                <p> Ewing, A., Meynert, A., Silk, R. et al. Divergent trajectories to structural diversity impact patient survival in high grade serous ovarian cancer. Nat Commun 16, 5586 (2025). <a href="https://www.nature.com/articles/s41467-025-60655-y">https://doi.org/10.1038/s41467-025-60655-y</a></p>
+                <p> Contributions from <b>Jo</b>, <b>Kitty</b> and <b>Stuart</b>.</p>
+                
+                <p> High grade serous ovarian cancer shows extreme structural instability, resulting in chaotic new rearrangements of the entire human genome that are unique to each tumour. These rearrangements are challenging to study with current technologies, but we show that they produce discernible and recurring patterns across many patients. We hope that our study also provides a blueprint for other poorly studied cancers showing high structural diversity.</p>
+
+        </div>
+    </div>
+</div>
+
 
 ## Selected publications
 
@@ -40,19 +63,10 @@ Gershenson D, Miller A, Brady WE, ..., <b>Ewing A</b>,..., Gourley C. 'Trametini
 
 Aitken SJ, Anderson CJ, Connor F, …,<b>Ewing A</b>,…, Taylor M. ‘Pervasive lesion segregation shapes cancer genome evolution’ (2020) Nature 583 (7815), 265-270.
 
-Travnickova J, Wojciechowska S, Khamseh A,…<b>Ewing A</b>…Patton E. ‘Zebrafish MITF-low melanoma subtype models reveal transcriptional subclusters and MITF-independent residual disease’ (2019). Cancer research. 79 (22), 5769-5784.
-
 <b>Ewing A</b>, Semple C. ‘Breaking point: the genesis and impact of structural variation in tumours’ (2018) F1000Research 7.
 
 Phelan CM, Kuchenbaecker KB, JP Tyrer,… <b>Pirie A</b> … Pharoah PDP. ‘Identification of 12 new susceptibility loci for different histotypes of epithelial ovarian cancer’ (2017) Nature genetics 49 (5), 680-691.
 
-Permuth JB\*, <b>Pirie A\*</b>, Chen A et al. ‘Exome genotyping arrays to identify rare and low frequency variants associated with epithelial ovarian cancer risk.’ (2016) Human Molecular Genetics 25 (16), 3600-3612. (* - equal contributions).
-
-Winham S\*, <b>Pirie A\*</b>, Chen A et al. ‘Investigation of exomic variants associated with overall survival in ovarian cancer’ (2016) Cancer Epidemiology Biomarkers and Prevention. Mar;25(3):446-54. (* - equal contributions)
-
-<b>Pirie A</b>, Guo Q, Kraft P et al. ‘Common germline polymorphisms associated with breast cancer specific survival’ (2015) Breast Cancer Research. 17:58.
-
-<b>Pirie A</b>, Wood A, Lush M et al. ‘The effect of rare variants on inflation of the test statistics in case-control analyses’ (2015) BMC Bioinformatics 16:53.
 
 <br>
 <p align="center">

@@ -11,7 +11,6 @@ footer_menu: example_footer_menu
 ---
 
 <br>
-<br>
 <h1 align="center" style="color:red">
 The Ewing Research Group is closing at the end of January 2026.
 </h1>
